@@ -70,7 +70,7 @@ ngrok http 3000
 
 - Copy lại public URL của ngrok, ví dụ:
 ```
-https://abc123.ngrok.io
+https://abc123.ngrok-free.app
 ```
 ### 4.4. Tạo form trên Jotform và gắn webhook
 - Vào **Jotform** → **My Forms** → **Tạo form mới**.
@@ -82,7 +82,7 @@ https://abc123.ngrok.io
 - Vào **Settings** → **Integrations** → **Webhook**.
 - Dán URL webhook backend vào:
 ```
-https://abc123.ngrok.io/api/webhooks/jotform
+https://abc123.ngrok-free.app/api/webhooks/jotform
 ```
 - Bấm **Complete Integration**.
 ### 4.5. Hoàn thành
